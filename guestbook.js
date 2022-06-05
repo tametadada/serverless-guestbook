@@ -1,5 +1,5 @@
 /**
- * Web application
+ * Web applications
  */
 const apiUrl = 'https://ecb8d67b.us-south.apigw.appdomain.cloud/guestbook';
 const guestbook = {
